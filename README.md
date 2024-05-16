@@ -1,5 +1,4 @@
 
-Plan With Us :
 
 Plan With Us is a React project designed to assist users in choosing their next trip destination. The project utilizes various components and JavaScript functionalities to provide an interactive experience. Users can explore different locations, view their descriptions, prices for the overall trip, and easily remove trips they're not interested in.
 
